@@ -1,6 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=D3D3D3&height=150&section=header" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Andika&weight=700&size=25&duration=1000&color=204FFF&repeat=false&random=false&width=435&lines=Welcome+to+Oscar+World+!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Rubik&weight=700&size=25&duration=1500&pause=10000&color=204FFF&random=false&width=435&lines=Welcome+to+Oscar+World+!))](https://git.io/typing-svg)
 
 ### 📱 Android Developer
 
