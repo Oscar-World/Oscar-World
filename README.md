@@ -13,5 +13,3 @@
 #### 👇 Technical Blog Link
 
 <a href="https://oscarstory.tistory.com/"><img src="https://img.shields.io/badge/TISTORY-EC4815?style=flat-square&logo=Tistory&logoColor=FFFFFF"/></a>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=footer" />
