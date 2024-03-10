@@ -1,12 +1,12 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=header" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Rubik&weight=700&size=35&duration=1500&pause=10000&color=204FFF&random=false&width=435&lines=Welcome+to+Oscar+World+!)](https://git.io/typing-svg)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Rubik&weight=700&size=35&duration=1500&pause=10000&color=204FFF&random=false&width=435&lines=Welcome+to+Oscar+World+!)
 
 ### 📱 Android Developer
 
 <br/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Oscar-World)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Oscar-World)
 
 <br/>
 
