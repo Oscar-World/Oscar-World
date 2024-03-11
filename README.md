@@ -21,8 +21,6 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Oscar-World&repo=TravelofRecord)](https://github.com/Oscar-World/TravelofRecord)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Oscar-World&repo=Couch)](https://github.com/Oscar-World/Couch)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Oscar-World&repo=DrawingBoard)](https://github.com/Oscar-World/DrawingBoard)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Oscar-World&repo=Hilt-Example)](https://github.com/Oscar-World/Hilt-Example)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Oscar-World&repo=Dagger-Example)](https://github.com/Oscar-World/Dagger-Example)
 
 <br/>
 
