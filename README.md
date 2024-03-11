@@ -23,3 +23,7 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Oscar-World&repo=DrawingBoard)](https://github.com/Oscar-World/DrawingBoard)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Oscar-World&repo=Hilt-Example)](https://github.com/Oscar-World/Hilt-Example)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Oscar-World&repo=Dagger-Example)](https://github.com/Oscar-World/Dagger-Example)
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=footer" />
