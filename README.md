@@ -17,6 +17,7 @@
 <br/><br/>
 
 ### 🔖 Popular Repositories
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Oscar-World&repo=FishingManager)](https://github.com/Oscar-World/FishingManager)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Oscar-World&repo=FishingGame)](https://github.com/Oscar-World/FishingGame)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Oscar-World&repo=TravelofRecord)](https://github.com/Oscar-World/TravelofRecord)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Oscar-World&repo=Couch)](https://github.com/Oscar-World/Couch)
